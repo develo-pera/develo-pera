@@ -2,10 +2,10 @@
 
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=develo-pera&theme=dark&count_private=true&show_icons=true&hide_rank=true&hide=stars" /> -->
-</a>
+<!-- </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develo-pera&layout=compact&langs_count=6&hide=java,css,HTML,Scilab" />
-</a>
+</a> -->
 
 <!--
 **develo-pera/develo-pera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
